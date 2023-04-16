@@ -4,3 +4,7 @@ postgres:
   host:
   port:
   database:
+
+somestuff:
+  user:
+  
