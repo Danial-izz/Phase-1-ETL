@@ -1,5 +1,5 @@
 postgres:
-  user:
+  user: lfcdeco
   password:
   host:
   port:
@@ -7,4 +7,3 @@ postgres:
 
 somestuff:
   user:
-  
